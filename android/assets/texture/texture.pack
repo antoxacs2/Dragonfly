@@ -1,0 +1,138 @@
+
+texture.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background
+  rotate: false
+  xy: 2, 465
+  size: 680, 240
+  orig: 680, 240
+  offset: 0, 0
+  index: -1
+webDown
+  rotate: false
+  xy: 684, 65
+  size: 128, 640
+  orig: 128, 640
+  offset: 0, 0
+  index: -1
+grass
+  rotate: false
+  xy: 2, 2
+  size: 915, 61
+  orig: 915, 61
+  offset: 0, 0
+  index: -1
+webUp
+  rotate: false
+  xy: 814, 623
+  size: 115, 82
+  orig: 115, 82
+  offset: 0, 0
+  index: -1
+spider
+  rotate: false
+  xy: 814, 554
+  size: 117, 67
+  orig: 117, 67
+  offset: 0, 0
+  index: -1
+buttonOff
+  rotate: false
+  xy: 814, 475
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+buttonOn
+  rotate: false
+  xy: 814, 475
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+retry
+  rotate: false
+  xy: 814, 447
+  size: 113, 26
+  orig: 113, 26
+  offset: 0, 0
+  index: -1
+fly1
+  rotate: false
+  xy: 814, 400
+  size: 54, 45
+  orig: 54, 45
+  offset: 0, 0
+  index: -1
+fly2
+  rotate: false
+  xy: 814, 400
+  size: 54, 45
+  orig: 54, 45
+  offset: 0, 0
+  index: -1
+fly3
+  rotate: false
+  xy: 814, 400
+  size: 54, 45
+  orig: 54, 45
+  offset: 0, 0
+  index: -1
+starOff
+  rotate: false
+  xy: 870, 398
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+starOn
+  rotate: false
+  xy: 814, 351
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+wood
+  rotate: false
+  xy: 2, 275
+  size: 500, 188
+  orig: 500, 188
+  offset: 0, 0
+  index: -1
+tapToFly
+  rotate: false
+  xy: 504, 441
+  size: 160, 22
+  orig: 160, 22
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 2, 145
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
+flyAndSpyders
+  rotate: false
+  xy: 2, 85
+  size: 406, 58
+  orig: 406, 58
+  offset: 0, 0
+  index: -1
+highScore
+  rotate: false
+  xy: 410, 117
+  size: 196, 26
+  orig: 196, 26
+  offset: 0, 0
+  index: -1
+gameOver
+  rotate: false
+  xy: 410, 89
+  size: 182, 26
+  orig: 182, 26
+  offset: 0, 0
+  index: -1
